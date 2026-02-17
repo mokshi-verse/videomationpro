@@ -1,0 +1,58 @@
+{
+  "manifest_version": 3,
+  "name": "Video Mation Pro",
+  "version": "1.0.0",
+  "description": "Smart video automation helper for Coursera and L&T courses - saves time with human-like behavior",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "permissions": [
+    "storage",
+    "scripting"
+  ],
+  "host_permissions": [
+    "*://*.coursera.org/*",
+    "*://*.coursera.com/*",
+    "*://*.lntedutech.com/*",
+    "*://*.larsentoubro.com/*"
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "width": 340,
+    "height":320,
+    "default_title": "Video Mation Pro"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.coursera.org/*",
+        "*://*.coursera.com/*",
+        "*://*.lntedutech.com/*",
+        "*://*.larsentoubro.com/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_end",
+      "all_frames": true
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "commands": {
+    "toggle-helper": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+H",
+        "mac": "Command+Shift+H"
+      },
+      "description": "Toggle video mation pro on/off"
+    }
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["content.js", "assets/*"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
