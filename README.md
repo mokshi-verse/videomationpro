@@ -1,5 +1,13 @@
 
+
 # Videomation Pro! ⚡
+
+<p align="center">
+  <video src="public/videomationdemo.mp4" controls width="480" poster="public/icons/icon128.png">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 
 And here comes Videomation Pro! ⚡
 A Chrome extension that allows you to skip video items and extract quiz text from Coursera & L&T.
@@ -13,7 +21,8 @@ A Chrome extension that allows you to skip video items and extract quiz text fro
 
 Follow the demo video above carefully.
 
-1. Click on the Drive link and download the VideomationPro ZIP file.
+1. Click on the Drive link and download the VideomationPro ZIP file:  
+  [Download from Google Drive](https://drive.google.com/file/d/15SYejuLYYdxW6GGIlmFoHFa0j1HcoPwA/view?usp=sharing)
 2. Extract the downloaded ZIP file.
 3. Open Google Chrome → go to Extensions → Manage Extensions.
 4. Turn ON Developer Mode (top-right corner).
