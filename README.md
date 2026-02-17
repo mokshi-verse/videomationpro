@@ -5,6 +5,10 @@
 <p align="center">
   <video src="public/videomationdemo.mp4" controls width="480" poster="public/icons/icon128.png">
     Your browser does not support the video tag.
+
+https://github.com/user-attachments/assets/d13d1f21-bef0-4d95-b2a1-b6e8d2260a11
+
+
   </video>
 </p>
 
