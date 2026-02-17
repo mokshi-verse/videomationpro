@@ -11,16 +11,13 @@
 
 
 
-And here comes Videomation Pro! ⚡
-A Chrome extension that allows you to skip video items and extract quiz text from Coursera & L&T.
-
 # Video Mation Pro
 Video Mation Pro is a powerful Chrome extension designed to enhance video interaction, automation, and productivity workflows directly inside your browser.  Built with modern web technologies, this extension streamlines video-based tasks and improves user efficiency with a clean, lightweight, and responsive interface.
 
-- • Bypasses Coursera and L&T bot detection systems
-- • Skips videos and extracts content using realistic human delays
-- • Supports both L&T and Coursera platforms
-- • Saves a lot of your precious time
+- Bypasses Coursera and L&T bot detection systems
+- Skips videos and extracts content using realistic human delays
+- Supports both L&T and Coursera platforms
+- Saves a lot of your precious time
 
 
 ## How to get the extension
@@ -62,20 +59,19 @@ Also, make sure to share this demo video and Drive link with your classmates and
 
 If any issue occurs with the extension, please reload the page multiple times so the DOM scripts refresh properly and work smoothly.
 
-⚠️ **Important:**
-Please do not modify or edit any code files inside the DIST folder using any code editor.
-
----
-
-Made with ♥️ by ThreadDev  
-ThreadDev is a student-led online agency where we build websites for businesses.  
-Visit our website: [threaddev.in](https://threaddev.in)
 
 I’d really appreciate your feedback and any future bug reports.  
 Please feel free to DM me anytime.  
 threaddev.in@gmail.com  
 mokshithgoudpolwp@gmail.com
 
+
+---
+
+Made with ♥️ by ThreadDev  
+ThreadDev is a student-led online agency where we build websites for businesses.  
+Visit our website: [threaddev.in](https://threaddev.in)
+It’s more like an open-source tool for college students.
 
 
 ##  Features
@@ -152,6 +148,8 @@ mokshithgoudpolwp@gmail.com
 
 This extension is for **educational purposes only**. Use responsibly and in accordance with platform terms of service.
 This is a non-profit extension. I got nothing from this.
+It’s more like an open-source tool for college students.
+
 
 ## License
 
