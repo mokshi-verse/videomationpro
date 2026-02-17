@@ -1,7 +1,29 @@
 
 
 # Videomation Pro! ⚡
+<p align="center">
+  <img src="public/icons/icon128.png" alt="Video Mation Pro Logo" width="128" height="128">
+</p>
 
+<p align="center">
+  <strong>A powerful Chrome extension for college students to efficiently complete Coursera and L&T EduTech courses with smart automation.</strong>
+</p>
+
+
+
+And here comes Videomation Pro! ⚡
+A Chrome extension that allows you to skip video items and extract quiz text from Coursera & L&T.
+
+# Video Mation Pro
+Video Mation Pro is a powerful Chrome extension designed to enhance video interaction, automation, and productivity workflows directly inside your browser.  Built with modern web technologies, this extension streamlines video-based tasks and improves user efficiency with a clean, lightweight, and responsive interface.
+
+- • Bypasses Coursera and L&T bot detection systems
+- • Skips videos and extracts content using realistic human delays
+- • Supports both L&T and Coursera platforms
+- • Saves a lot of your precious time
+
+
+## How to get the extension
 <p align="center">
   <video src="public/videomationdemo.mp4" controls width="480" poster="public/icons/icon128.png">
     Your browser does not support the video tag.
@@ -11,17 +33,6 @@ https://github.com/user-attachments/assets/d13d1f21-bef0-4d95-b2a1-b6e8d2260a11
 
   </video>
 </p>
-
-
-And here comes Videomation Pro! ⚡
-A Chrome extension that allows you to skip video items and extract quiz text from Coursera & L&T.
-
-• Bypasses Coursera and L&T bot detection systems
-• Skips videos and extracts content using realistic human delays
-• Supports both L&T and Coursera platforms
-• Saves a lot of your precious time
-
-## How to get the extension
 
 Follow the demo video above carefully.
 
@@ -64,19 +75,6 @@ I’d really appreciate your feedback and any future bug reports.
 Please feel free to DM me anytime.  
 threaddev.in@gmail.com  
 mokshithgoudpolwp@gmail.com
-
-This is a non-profit extension. I got nothing from this.
-
-# Video Mation Pro
-Video Mation Pro is a powerful Chrome extension designed to enhance video interaction, automation, and productivity workflows directly inside your browser.  Built with modern web technologies, this extension streamlines video-based tasks and improves user efficiency with a clean, lightweight, and responsive interface.
-
-<p align="center">
-  <img src="public/icons/icon128.png" alt="Video Mation Pro Logo" width="128" height="128">
-</p>
-
-<p align="center">
-  <strong>A powerful Chrome extension for college students to efficiently complete Coursera and L&T EduTech courses with smart automation.</strong>
-</p>
 
 
 
@@ -153,6 +151,7 @@ Video Mation Pro is a powerful Chrome extension designed to enhance video intera
 ## ⚠️ Disclaimer
 
 This extension is for **educational purposes only**. Use responsibly and in accordance with platform terms of service.
+This is a non-profit extension. I got nothing from this.
 
 ## License
 
