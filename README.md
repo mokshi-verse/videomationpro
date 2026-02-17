@@ -71,8 +71,6 @@ mokshithgoudpolwp@gmail.com
 Made with ♥️ by ThreadDev  
 ThreadDev is a student-led online agency where we build websites for businesses.  
 Visit our website: [threaddev.in](https://threaddev.in)
-It’s more like an open-source tool for college students.
-
 
 ##  Features
 
